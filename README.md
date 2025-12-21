@@ -87,7 +87,6 @@ I'm a Software Engineer and a Master's student in Information Systems at Northea
 
 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spandey1702&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandey1702&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
 </p>
 <p align="center">
