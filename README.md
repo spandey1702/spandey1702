@@ -67,12 +67,12 @@ I'm a Software Engineer and a Master's student in Information Systems at Northea
 
 <p align="center">
 <!-- Top languages across all repos, including subfolders -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandey1702&layout=compact&langs_count=10&theme=tokyonight&hide_border=false" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandey1702&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&include_all_commits=true" alt="Top Languages" />
 </p>
 
 <p align="center">
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=spandey1702&theme=tokyonight&hide_border=false" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=spandey1702&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
