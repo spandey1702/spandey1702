@@ -1,10 +1,7 @@
-# Hi there, I'm Sagarika Pandey 👋 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=500&lines=Software+Engineer;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
-
+# Hi , I'm Sagarika Pandey 👋 
 ---
-
 ## About Me
-I'm a Software Engineer and a Master's student in Information Systems at Northeastern University, specializing in cloud-native applications, microservices, and scalable systems. I thrive on solving complex problems by combining software engineering, cloud infrastructure, and data-driven analytics.  
+I'm a Software Engineer and completed a Master's Degree in Computer Software Engineering from Northeastern University. I thrive on solving complex problems by combining software engineering, cloud infrastructure, and data-driven analytics.  
 
 - **Recent**: Software Engineer Intern at Aeone Platforms Inc, focusing on API integrations, analytics dashboards, and cloud infrastructure  
 - **Learning**: Distributed systems, ML/AI pipelines, Generative AI  
@@ -14,10 +11,9 @@ I'm a Software Engineer and a Master's student in Information Systems at Northea
 
 ---
 
-## Current Work
+## Ongoing Work
 - 🍽️ **FoodCamp** – Building a platform to connect restaurants with nearby food camps to reduce food waste.  
-- 🤝 **A2A Java** – Contributing to open-source, resolving Kubernetes issues, and enhancing agent frameworks.  
-- 💻 **Home Inventory Management System** – Full-stack project deployed on AWS with Terraform, automated inventory tracking.  
+- 🤝 **A2A Java** – Contributing to open-source, resolving Kubernetes issues, and enhancing agent frameworks. 
 
 ---
 
