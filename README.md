@@ -13,7 +13,7 @@
   <a href="mailto:sagarikapandey1702@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-January%202026-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
