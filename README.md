@@ -55,7 +55,7 @@ python agents/plugin_server.py --cli   # interactive terminal mode
 
 ---
 
-### ☕ [a2a-java](https://github.com/a2aproject/a2a-java) — Open-Source Contribution
+### ☕ [a2a-java](https://github.com/a2aproject/a2a-java/pull/900) — Open-Source Contribution
 > Java · Kubernetes · Agent2Agent Protocol
 
 Contributed to the official Java SDK for the Agent2Agent (A2A) Protocol — resolved Kubernetes deployment issues and enhanced agent framework reliability.
