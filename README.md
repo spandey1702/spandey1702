@@ -56,9 +56,9 @@ python agents/plugin_server.py --cli   # interactive terminal mode
 ---
 
 ### ☕ [a2a-java](https://github.com/a2aproject/a2a-java/pull/900) — Open-Source Contribution
-> Java · Kubernetes · Agent2Agent Protocol
+> Java · PowerShell · Kubernetes · Agent2Agent Protocol
 
-Contributed to the official Java SDK for the Agent2Agent (A2A) Protocol — resolved Kubernetes deployment issues and enhanced agent framework reliability.
+Contributed Windows PowerShell support (`deploy.ps1`, `cleanup.ps1`, `verify.ps1`) for the Kubernetes cloud-deployment example of the official Agent2Agent (A2A) Protocol Java SDK — [PR #900](https://github.com/a2aproject/a2a-java/pull/900)
 
 ---
 
@@ -69,7 +69,6 @@ Contributed to the official Java SDK for the Agent2Agent (A2A) Protocol — reso
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -113,11 +112,11 @@ Contributed to the official Java SDK for the Agent2Agent (A2A) Protocol — reso
 ## 💼 About Me
 
 - 🎓 **MS Computer Software Engineering** — Northeastern University
-- 💼 **SWE Intern @ Aeone Platforms Inc** — API integrations, analytics dashboards, cloud infrastructure
+- 💼 **Software Engineer @ Keelworks Foundation** · previously SWE Intern @ Aeone Platforms Inc
 - 🌱 Currently exploring: distributed systems, LLM pipelines, agent frameworks
 - 📍 Seattle, WA · Open to remote or hybrid roles
 - 📬 [sagarikapandey1702@gmail.com](mailto:sagarikapandey1702@gmail.com)
 
 <p align="center">
-  <strong>🟢 Actively seeking full-time SWE roles starting January 2026</strong>
+  <strong>🟢 Actively seeking full-time SWE roles · Open to remote or hybrid</strong>
 </p>
