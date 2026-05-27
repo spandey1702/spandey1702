@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sagarika-p-8881ab114">
+  <a href="https://www.linkedin.com/in/sagarika-pandey-8881ab114/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sagarikapandey1702@gmail.com">
