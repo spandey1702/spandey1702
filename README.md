@@ -120,6 +120,7 @@ Contributed Windows PowerShell support (`deploy.ps1`, `cleanup.ps1`, `verify.ps1
 
 - 🎓 **MS Computer Software Engineering** — Northeastern University
 - 💼 **Software Engineer @ Keelworks Foundation** · previously SWE Intern @ Aeone Platforms Inc
+- 🏢 **Previously:** SE @ Alight Solutions · SE @ LTI Mindtree
 - 🌱 Currently exploring: distributed systems, LLM pipelines, agent frameworks
 - 📍 Seattle, WA · Open to remote or hybrid roles
 - 📬 [sagarikapandey1702@gmail.com](mailto:sagarikapandey1702@gmail.com)
