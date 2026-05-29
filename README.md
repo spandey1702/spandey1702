@@ -96,6 +96,13 @@ Contributed Windows PowerShell support (`deploy.ps1`, `cleanup.ps1`, `verify.ps1
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
+### AI & ML
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LLM Pipelines](https://img.shields.io/badge/-LLM%20Pipelines-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-7C3AED?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP%20Protocol-00897B?style=for-the-badge&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
