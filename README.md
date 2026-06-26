@@ -18,6 +18,7 @@ Previously:
 | Project | What it does | Stack |
 |---|---|---|
 | [CodeAgent](https://github.com/spandey1702/CodeAgent) | 5-agent autonomous coding pipeline published as MCP server on PyPI · `uvx codeagent-mcp` | Python · Gemini · MCP |
+| [Stacksplain](https://github.com/spandey1702/Stacksplain) | Paste any stack trace, get a plain-English explanation + fix · `pip install stacksplain` | Python · Gemini · Click |
 | [HomeVault](https://github.com/spandey1702/HomeVault) | 44 Terraform-managed AWS resources across 2 AZs · zero manual provisioning | Java · Spring Boot · Terraform · AWS ECS |
 | [FoodCamp](https://github.com/spandey1702/FoodCamp) | ResNet-50 fine-tuned on Food-101 · 93% food photo classification accuracy | Python · FastAPI · PyTorch · React |
 
@@ -63,4 +64,4 @@ Previously:
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sagarikapandey1702@gmail.com)
 [![PyPI](https://img.shields.io/badge/PyPI-CodeAgent-3775A9?style=flat&logo=pypi&logoColor=white)](https://pypi.org/project/codeagent-mcp/)
 
-📍 Seattle, WA · Open to remote / hybrid · Will relocate across the US
+📍 Seattle, WA · Open to on-site, hybrid, or remote · Will relocate across the US
